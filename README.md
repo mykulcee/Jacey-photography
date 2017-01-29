@@ -16,3 +16,10 @@ This is a website for my daughter's photography
 * image
 * customer, inherits from user
 * admin, inherits from user
+
+#### todo
+
+* get all the appropriate body copy (bio, artist statement, about, services, prices)
+* find out how she wants her photographs displayed and how many
+* find out if she wants a blog
+* find out if she wants to have a regularly udpated newsletter
